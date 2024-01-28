@@ -9,7 +9,7 @@ Hey 👋! These are my SH (Bash) scripts! Scroll down below to see how to instal
   
 * Enter: ```git clone https://github.com/Water607965/SH-Bash-Scripts-```.
 
-* Enter: ```chmod chmod +x Waterlord.sh```
+* Enter: ```chmod +x Waterlord.sh```
 
 * Enter: ```./Waterlord.sh```. Easter egg: if you insert something after the ".sh" portion, you'll unlock an easter egg in the script! Can be anything you'd like.
 
