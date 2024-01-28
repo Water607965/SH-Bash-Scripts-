@@ -1,7 +1,7 @@
-# Introduction
+# 👋 Introduction 👋
 Hey 👋! These are my SH (Bash) scripts! Scroll down below to see how to install them if you desire to!
 
-# Installation
+# ⬇ Installation ⬇
 
 * Ensure you are on a Linux, MacOS, or Windows modified command line that suits Linux & MacOS commands & open the terminal ✔.
   
@@ -15,7 +15,7 @@ Hey 👋! These are my SH (Bash) scripts! Scroll down below to see how to instal
 
 * Have fun with the script ✔ !
 
-# Considerations
+# ✔ Considerations ✔
 
 * This was created using the nano tool in the terminal, different Mac's, and primarily Visual Studio Code ✔.
 
@@ -23,6 +23,6 @@ Hey 👋! These are my SH (Bash) scripts! Scroll down below to see how to instal
 
 * System Requirements: Linux & MacOS. You can do Windows if you utilize some terminal tools that allow you to, or create a Linux virtual machine (VM) ✔.
 
-# Conclusion
+# 📣 Conclusion 📣
 
 And yea! That's it! Otherwise, have a great rest of your day ✔ !
